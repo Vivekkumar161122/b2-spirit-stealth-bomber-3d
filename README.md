@@ -6,19 +6,19 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-00f0ff?style=for-the-badge)](./LICENSE)
 [![Status](https://img.shields.io/badge/Status-Operational-brightgreen?style=for-the-badge)](#)
 
-> An immersive, photorealistic 3D simulation and technical aerospace showcase of the legendary **Northrop Grumman B-2 Spirit Stealth Bomber**. Built with WebGL, Three.js, and modern JavaScript, featuring full flight aerodynamics, Radar Cross Section (RCS) polar analysis, an interactive strike mission mode, procedural audio synthesis, and tactical cockpit avionics.
+> An immersive, photorealistic 3D simulation and technical aerospace showcase of the legendary **Northrop Grumman B-2 Spirit Stealth Bomber**. Built with WebGL, Three.js, and modern JavaScript, featuring full flight aerodynamics, Radar Cross Section (RCS) polar analysis, an interactive strike mission mode, procedural audio synthesis and tactical cockpit avionics.
 
 ---
 
 ## 📸 Overview & Highlights
 
-- **Aeronautical Fidelity**: Authentic flying-wing planform with sweep angles, serrated trailing edges, elevons, split-drag rudder surfaces, conformal radar absorbing materials (RAM), and animated rotary weapon launcher.
-- **Dynamic Flight Physics Engine**: Lift, drag, angle-of-attack (AoA), induced drag curves, transonic Mach calculations, stall dynamics, ground effect, and fly-by-wire stability augmentation.
+- **Aeronautical Fidelity**: Authentic flying-wing planform with sweep angles, serrated trailing edges, elevons, split-drag rudder surfaces, conformal radar absorbing materials (RAM) and animated rotary weapon launcher.
+- **Dynamic Flight Physics Engine**: Lift, drag, angle-of-attack (AoA), induced drag curves, transonic Mach calculations, stall dynamics, ground effect and fly-by-wire stability augmentation.
 - **RCS (Radar Cross Section) Simulator**: Real-time polar RCS pattern evaluation accounting for aspect angle, open weapons bay exposure, and deployed landing gear radar reflections.
-- **Operation Dark Skies (Combat Mission Mode)**: Infiltrate hostile airspace, evade active SAM radar tracking envelopes, lock on enemy ground installations, open bomb bay doors, and deliver precision-guided JDAM ordnance.
-- **Procedural Tactical Audio Engine**: Web Audio API-powered twin turbofan acoustic model, hydraulic actuator servos, sonic flyby sound effects, and synthetic cockpit voice warnings (*"Pull up"*, *"Weapons bay open"*, *"Autopilot engaged"*).
-- **Multiple Sensor Visual Modes**: Switch between Tactical Matte Stealth, Wireframe Mesh, Thermal FLIR Infrared, and Internal Structural X-Ray views.
-- **Atmospheric Environments**: High-altitude Stratosphere, Dawn/Sunset twilight, Night Infiltration, and High Noon lighting conditions with dynamic sky scattering and terrain generation.
+- **Operation Dark Skies (Combat Mission Mode)**: Infiltrate hostile airspace, evade active SAM radar tracking envelopes, lock on enemy ground installations open bomb bay doors and deliver precision-guided JDAM ordnance.
+- **Procedural Tactical Audio Engine**: Web Audio API-powered twin turbofan acoustic model, hydraulic actuator servos, sonic flyby sound effects and synthetic cockpit voice warnings (*"Pull up"*, *"Weapons bay open"*, *"Autopilot engaged"*).
+- **Multiple Sensor Visual Modes**: Switch between Tactical Matte Stealth, Wireframe Mesh, Thermal FLIR Infrared and Internal Structural X-Ray views.
+- **Atmospheric Environments**: High-altitude Stratosphere, Dawn/Sunset twilight, Night Infiltration and High Noon lighting conditions with dynamic sky scattering and terrain generation.
 
 ---
 
@@ -58,7 +58,7 @@ graph TD
 - **Bundler & Tooling**: [Vite 6](https://vitejs.dev/)
 - **UI & Icons**: [Lucide Icons](https://lucide.dev/)
 - **Audio System**: Web Audio API (procedural synthesis, no external audio files required) & Web Speech Synthesis API
-- **Styling**: Vanilla modern CSS with glassmorphism, responsive HUD overlays, and military-grade typography
+- **Styling**: Vanilla modern CSS with glassmorphism, responsive HUD overlays and military-grade typography
 
 ---
 

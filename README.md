@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-00f0ff?style=for-the-badge)](./LICENSE)
 [![Status](https://img.shields.io/badge/Status-Operational-brightgreen?style=for-the-badge)](#)
 
-> An immersive, photorealistic 3D simulation and technical aerospace showcase of the legendary **Northrop Grumman B-2 Spirit Stealth Bomber**. Built with WebGL, Three.js, and modern JavaScript, featuring full flight aerodynamics, Radar Cross Section (RCS) polar analysis, an interactive strike mission mode, procedural audio synthesis and tactical cockpit avionics.
+> An immersive, photorealistic 3D simulation and technical aerospace showcase of the legendary **Northrop Grumman B-2 Spirit Stealth Bomber**. Built with WebGL, Three.js and modern JavaScript featuring full flight aerodynamics, Radar Cross Section (RCS) polar analysis, an interactive strike mission mode, procedural audio synthesis and tactical cockpit avionics.
 
 ---
 
